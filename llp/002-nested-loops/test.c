@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-int _islower(int c);
+int print_last_digit(int n);
 
 int main(void)
 {
-    int c = 129;
-    int result = _islower(c);
+    int n = 0;
+    int result = print_last_digit(n);
 
 printf("%i\n",result);
     /** printf("Is %c a lowercase character? %s\n", c, result ? "Yes" : "No");
@@ -13,10 +13,9 @@ printf("%i\n",result);
     return (0);
 }
 
-int _islower(int c)
+int print_last_digit(int n)
 {
-    if ((c >= 97) && (c < 123))
-        return (1);
-
-    return (0);
+    if (n >= 0)
+        return (n % 10);
+    return (-n % 10);
 }
