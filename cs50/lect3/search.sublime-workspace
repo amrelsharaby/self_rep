@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"found"
+			],
+			[
+				"p",
+				"printf\tprintf …"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"stdo",
+				"stdio.h"
+			],
+			[
+				"std",
+				"stdio.h"
+			],
+			[
+				"stdi",
+				"stdio.h"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"printf '\\xc3' | dd seek=$((0xae95)) conv=notrunc bs=1 of=/Applications/Sublime\\ Text.app/Contents/MacOS/Sublime\\ Text"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/amrelsharaby/self_rep/cs50/lect3/search.c",
+		"/Users/amrelsharaby/self_rep/llp/002-nested-loops/teter.c",
+		"/Users/amrelsharaby/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/amrelsharaby/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/amrelsharaby/Desktop/untitled.py",
+		"/Users/amrelsharaby/Desktop/py.py",
+		"/Users/amrelsharaby/Desktop/py.htm",
+		"/Volumes/ADATA SD600/t2/recup_dir.362/f714632304.xml",
+		"/Volumes/ADATA SD600/Tab Session Manager #browserExit - 2022-12-15 09-51-40.json",
+		"/Users/amrelsharaby/Downloads/pdf_azur.modules.php",
+		"/Users/amrelsharaby/podband/NopCommerce/10592_1030_Yuansfer/uploadedItems.json",
+		"/Users/amrelsharaby/Downloads/language_pack.ar-SA.xml",
+		"/Users/amrelsharaby/Downloads/language_pack.en-US.xml",
+		"/1.py",
+		"/Atom1.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "search.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
