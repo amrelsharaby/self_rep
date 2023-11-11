@@ -3,7 +3,7 @@
 int main(void)
 
 {
-char c = 'b'
+  char c = 'b';
 	return (c >= 'a' && c <= 'z');
 }
 
