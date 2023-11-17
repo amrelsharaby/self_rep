@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-typedef struct phonebook
+typedef struct phonebook //مش فاكر كتبتها ليه
 {
     string name;
     string number;
@@ -10,6 +10,7 @@ typedef struct phonebook
 
 int main(void)
 {
+
 person people[3];
 
 people[0].name = "Carter";
